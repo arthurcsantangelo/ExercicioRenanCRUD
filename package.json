@@ -1,0 +1,24 @@
+{
+  "name": "exerciciorenancrud",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/arthurcsantangelo/ExercicioRenanCRUD#readme",
+  "bugs": {
+    "url": "https://github.com/arthurcsantangelo/ExercicioRenanCRUD/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arthurcsantangelo/ExercicioRenanCRUD.git"
+  },
+  "license": "ISC",
+  "author": "Arthur Carlo Della Favera Santangelo",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node --watch index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
